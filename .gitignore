@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.eclipse/
+.classpath
+.project
+.settings/
+
+# Runs
+run/
+run-server/
+
+# Reference sources (not part of the mod)
+_reference/
+
+# OS
+Thumbs.db
+.DS_Store

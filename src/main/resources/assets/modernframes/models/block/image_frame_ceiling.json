@@ -1,0 +1,21 @@
+{
+  "credit": "ModernFrames",
+  "textures": {
+    "frame": "modernframes:block/image_frame",
+    "particle": "modernframes:block/image_frame"
+  },
+  "elements": [
+    {
+      "from": [0, 15.5, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "texture": "#frame" },
+        "south": { "texture": "#frame" },
+        "east": { "texture": "#frame" },
+        "west": { "texture": "#frame" },
+        "up": { "texture": "#frame" },
+        "down": { "texture": "#frame" }
+      }
+    }
+  ]
+}
